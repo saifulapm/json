@@ -1,0 +1,207 @@
+{
+  "item_collections": [
+    [
+      {
+        "id": 283995701408,
+        "handle": "accessories",
+        "title": "Accessories",
+        "updated_at": "2021-11-14T05:50:49-05:00",
+        "body_html": "",
+        "published_at": "2021-09-07T05:28:06-04:00",
+        "sort_order": "best-selling",
+        "template_suffix": "",
+        "disjunctive": false,
+        "rules": [
+          {
+            "column": "type",
+            "relation": "equals",
+            "condition": "ACCESSORIES"
+          }
+        ],
+        "published_scope": "global"
+      },
+      {
+        "id": 263657423008,
+        "handle": "all",
+        "title": "All",
+        "updated_at": "2022-03-14T10:18:52-04:00",
+        "body_html": "",
+        "published_at": "2021-04-01T13:49:43-04:00",
+        "sort_order": "best-selling",
+        "template_suffix": "",
+        "disjunctive": false,
+        "rules": [
+          {
+            "column": "variant_inventory",
+            "relation": "greater_than",
+            "condition": "0"
+          }
+        ],
+        "published_scope": "global"
+      }
+    ],
+    [
+      {
+        "id": 283995701408,
+        "handle": "accessories",
+        "title": "Accessories",
+        "updated_at": "2021-11-14T05:50:49-05:00",
+        "body_html": "",
+        "published_at": "2021-09-07T05:28:06-04:00",
+        "sort_order": "best-selling",
+        "template_suffix": "",
+        "disjunctive": false,
+        "rules": [
+          {
+            "column": "type",
+            "relation": "equals",
+            "condition": "ACCESSORIES"
+          }
+        ],
+        "published_scope": "global"
+      },
+      {
+        "id": 263657423008,
+        "handle": "all",
+        "title": "All",
+        "updated_at": "2022-03-14T10:18:52-04:00",
+        "body_html": "",
+        "published_at": "2021-04-01T13:49:43-04:00",
+        "sort_order": "best-selling",
+        "template_suffix": "",
+        "disjunctive": false,
+        "rules": [
+          {
+            "column": "variant_inventory",
+            "relation": "greater_than",
+            "condition": "0"
+          }
+        ],
+        "published_scope": "global"
+      }
+    ]
+  ],
+  "cart": {
+    "note": null,
+    "attributes": {
+      "stackable_session_id": "a6d9b75e-c7dc-4eda-9a6d-1186b3b0625a",
+      "stkbl_1137294803104_13711775760544": "1|1000|Spend 100 Save 10"
+    },
+    "original_total_price": 19995,
+    "total_price": 19995,
+    "total_discount": 0,
+    "total_weight": 0.0,
+    "item_count": 6,
+    "items": [
+      {
+        "id": 40858251526304,
+        "properties": {},
+        "quantity": 5,
+        "variant_id": 40858251526304,
+        "key": "40858251526304:84360528e0a7943823ab52422afa2e62",
+        "title": "FLEX FIT | MINI OTTOMAN BLACK - s / black",
+        "price": 2999,
+        "original_price": 2999,
+        "discounted_price": 2999,
+        "line_price": 14995,
+        "original_line_price": 14995,
+        "total_discount": 0,
+        "discounts": [],
+        "sku": "FF-01-black-s",
+        "grams": 0,
+        "vendor": "FLEX FIT",
+        "taxable": true,
+        "product_id": 6961907400864,
+        "product_has_only_default_variant": false,
+        "gift_card": false,
+        "final_price": 2999,
+        "final_line_price": 14995,
+        "url": "/products/flex-fit-mini-ottoman-black?variant=40858251526304",
+        "featured_image": {
+          "aspect_ratio": 1.134,
+          "alt": "FLEX FIT | MINI OTTOMAN BLACK",
+          "height": 560,
+          "url": "https://cdn.shopify.com/s/files/1/0494/6342/7232/products/6170fd62b8ebee856d0cbdeac874abfd.jpg?v=1631005954",
+          "width": 635
+        },
+        "image": "https://cdn.shopify.com/s/files/1/0494/6342/7232/products/6170fd62b8ebee856d0cbdeac874abfd.jpg?v=1631005954",
+        "handle": "flex-fit-mini-ottoman-black",
+        "requires_shipping": true,
+        "product_type": "ACCESSORIES",
+        "product_title": "FLEX FIT | MINI OTTOMAN BLACK",
+        "product_description": "Flexfit Mini Ottoman Cap",
+        "variant_title": "s / black",
+        "variant_options": ["s", "black"],
+        "options_with_values": [
+          {
+            "name": "Size",
+            "value": "s"
+          },
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "line_level_discount_allocations": [],
+        "line_level_total_discount": 0
+      },
+      {
+        "id": 40858252279968,
+        "properties": {},
+        "quantity": 1,
+        "variant_id": 40858252279968,
+        "key": "40858252279968:30c4d59dfa42ca8fd6a9f7aebbeac426",
+        "title": "ADIDAS | CLASSIC BACKPACK | LEGEND INK MULTICOLOUR - OS / blue",
+        "price": 5000,
+        "original_price": 5000,
+        "discounted_price": 5000,
+        "line_price": 5000,
+        "original_line_price": 5000,
+        "total_discount": 0,
+        "discounts": [],
+        "sku": "AD-04\r\n-blue-OS",
+        "grams": 0,
+        "vendor": "ADIDAS",
+        "taxable": true,
+        "product_id": 6961907859616,
+        "product_has_only_default_variant": false,
+        "gift_card": false,
+        "final_price": 5000,
+        "final_line_price": 5000,
+        "url": "/products/adidas-classic-backpack-legend-ink-multicolour?variant=40858252279968",
+        "featured_image": {
+          "aspect_ratio": 1.134,
+          "alt": "ADIDAS | CLASSIC BACKPACK | LEGEND INK MULTICOLOUR",
+          "height": 560,
+          "url": "https://cdn.shopify.com/s/files/1/0494/6342/7232/products/8072c8b5718306d4be25aac21836ce16.jpg?v=1631005967",
+          "width": 635
+        },
+        "image": "https://cdn.shopify.com/s/files/1/0494/6342/7232/products/8072c8b5718306d4be25aac21836ce16.jpg?v=1631005967",
+        "handle": "adidas-classic-backpack-legend-ink-multicolour",
+        "requires_shipping": true,
+        "product_type": "ACCESSORIES",
+        "product_title": "ADIDAS | CLASSIC BACKPACK | LEGEND INK MULTICOLOUR",
+        "product_description": "The adidas BP Classic Cap features a pre-curved brim to keep your face shaded, while a hook-and-loop adjustable closure provides a comfortable fit. With a 3-Stripes design and reflective accents. The perfect piece to top off any outfit.",
+        "variant_title": "OS / blue",
+        "variant_options": ["OS", "blue"],
+        "options_with_values": [
+          {
+            "name": "Size",
+            "value": "OS"
+          },
+          {
+            "name": "Color",
+            "value": "blue"
+          }
+        ],
+        "line_level_discount_allocations": [],
+        "line_level_total_discount": 0
+      }
+    ],
+    "requires_shipping": true,
+    "currency": "USD",
+    "items_subtotal_price": 19995,
+    "cart_level_discount_applications": [],
+    "checkout_charge_amount": 19995
+  }
+}
